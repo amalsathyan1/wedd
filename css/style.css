@@ -1,0 +1,190 @@
+.rufina-regular {
+    font-family: "Rufina", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .rufina-bold {
+    font-family: "Rufina", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.nav-item .nav-link {
+    font-family: "Rufina", serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-right: 40px;
+}
+
+.signupbtn {
+    background: #000 !important;
+    border-radius: 30px !important;
+    padding: 12px 28px 12px 28px !important;
+    color: #fff !important;
+    font-family: "Rufina", serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.carousel-caption {
+  margin-bottom: 250px;
+
+}
+
+.carousel-caption h5 {
+  font-size: 76px;
+  font-weight: 700;
+  font-family: "Rufina", serif;
+  
+}
+
+
+
+
+#cards {
+  margin-top: 70px;
+  margin-bottom: 150px;
+}
+
+
+.crd-head {
+font-family: "Rufina", serif;
+font-size: 45px;
+font-weight: 700;
+margin-bottom: 30px;
+
+
+}
+
+.crd-para {
+  font-family: "Rufina", serif;
+  font-size: 18.75px;
+  font-weight: 400;
+  line-height: 26.27px;
+  width: 820px;
+  margin-bottom: 40px;
+}
+
+#cards .img-crd {
+  width: 46px;
+  margin-bottom: 15px;
+}
+
+#cards .crd-bg {
+  border: 1px solid #bababa;
+  border-radius: 6px;
+  padding: 36px 28px 36px 28px;
+}
+
+#cards .card-title {
+  margin-bottom: 10px;
+}
+
+
+#imgcards {
+  margin-bottom: 100px;
+}
+#imgcards .card {
+  border: none;
+  margin-bottom: 20px;
+}
+
+
+#imgcards .imgbtn{
+   padding: 14px 27px 14px 27px;
+   border: 1px solid;
+   border-radius: 40px;
+   margin-top: 40px;
+   font-family: "Rufina", serif;
+   font-size: 18px;
+   font-weight: 400;
+  
+}
+
+
+
+#whyus {
+  margin-bottom: 100px;
+}
+#whyus .img-crd {
+  width: 46px;
+  margin-bottom: 15px;
+}
+
+#whyus .img-crd {
+  width: 46px;
+  margin-bottom: 15px;
+}
+
+#whyus .crd-bg {
+  border: 1px solid #bababa;
+  border-radius: 6px;
+  padding: 36px 28px 36px 28px;
+}
+
+#whyus .card-title {
+  margin-bottom: 10px;
+}
+
+#whyus .btmcontents .imgbtn{
+  padding: 12px 59px 12px 59px;
+  border: 1px solid;
+  border-radius: 40px;
+  margin-top: 10px;
+  font-family: "Rufina", serif;
+  font-size: 18px;
+  font-weight: 400;
+ 
+}
+  
+#gallery {
+  margin-bottom: 200px;
+}
+
+#gallery .slick-next {
+  display: none !important;
+}
+
+
+#events {
+  margin-bottom: 200px;
+}
+#events .btn {
+  border: 1px solid;
+  padding: 8px 29px 8px 29px;
+  border: 1px solid;
+  border-radius: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen
+and (min-device-width: 1080px)
+and (max-device-width: 1440px) {
+  .carousel-caption {
+    margin-bottom: 145px;
+}
+}
+
+
+@media only screen
+and (min-device-width: 768px)
+and (max-device-width: 1024px) {
+  .carousel-caption {
+    margin-bottom: 100px;
+}
+
+.carousel-caption h5 {
+  font-size: 56px;
+  
+  
+}
+}
